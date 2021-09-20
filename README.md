@@ -5,7 +5,7 @@ This is my personal website
 
 ## Contribute
 
-* Clone Repository 
+* Clone Repository
 * Explore a  project
 * Find a bug
 * Fix a bug
